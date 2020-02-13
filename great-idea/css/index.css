@@ -179,3 +179,19 @@ footer{
 	background-color:lightblue;
 	padding:20px;
 }
+
+/* services page start */
+
+.services-header-img{
+	margin-top:20px;
+}
+
+.servhero{
+	border-bottom:1px solid black;
+	margin:30px 0px;
+	padding-bottom:30px;
+}
+
+h3{
+	font-size:28px;
+}
